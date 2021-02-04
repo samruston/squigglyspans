@@ -1,0 +1,3 @@
+include ':squigglyspans'
+include ':sample'
+rootProject.name = "Squiggly Spans"
