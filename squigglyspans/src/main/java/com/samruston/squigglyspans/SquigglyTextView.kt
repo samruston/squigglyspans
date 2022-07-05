@@ -13,7 +13,7 @@ import com.samruston.squigglyspans.spans.MultilineSpan
 /**
  * A [TextView] that redraws every frame whenever there is an [AnimatingSpan] in its text.
  * It draws the spans itself on top the text, mostly taken from
- * https://github.com/android/user-interface-samples/tree/master/TextRoundedBackgroundKotlin
+ * https://github.com/android/user-interface-samples/blob/081f33f53e/TextRoundedBackgroundKotlin
  */
 open class SquigglyTextView : AppCompatTextView, Runnable {
 
